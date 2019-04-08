@@ -1,1 +1,1 @@
-Blind and Heuristical search methods practicing.
+Blind and heuristic search methods.
