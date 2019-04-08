@@ -1,3 +1,1 @@
-# IA-UFRGS
-Repository for the AI class at INF-UFRGS.
-Test.
+Blind and heuristic search methods.
